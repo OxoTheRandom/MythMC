@@ -1,1 +1,0 @@
-Open Minecraft Directory > Mods (If none make new folder named "mods") > Insert mods there
